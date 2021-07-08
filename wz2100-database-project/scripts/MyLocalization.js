@@ -1,6 +1,6 @@
 ﻿var language_urls = {
-    en: 'http://en.wzone2100.ru',
-    ru: 'http://wzone2100.ru',
+    en: 'http://en.guide.warzone2100.pro/',
+    ru: 'http://ru.guide.warzone2100.pro/',
 }
 
 
